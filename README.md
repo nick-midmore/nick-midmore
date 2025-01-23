@@ -1,6 +1,8 @@
 ## About Me
 
-Junior Software Developer, experienced
+Junior Software Developer, 5+ years experience in technical roles. Currently enrolled in an intensive Software Development bootcamp with a focus on the .NET ecosystem.
+
+Open to work
 
 ## Technical Skills
 
