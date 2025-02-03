@@ -6,7 +6,7 @@ Open to work
 
 ## Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,wasm,go,javascript,azure,jenkins,git,docker,kubernetes,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,wasm,go,python,javascript,azure,jenkins,git,docker,kubernetes,vim)](https://skillicons.dev)
 
 ## Contact
 
