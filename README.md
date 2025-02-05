@@ -15,9 +15,9 @@ Open to work
 
 ## Portfolio
 
+- 🎬 [Spreeview](https://github.com/nc-team-inertia/spreeview)
 - 🛒 [Full-stack Employee Management system](https://github.com/nick-midmore/employee-management)
 - 📑 [HTTP Server built from scratch in C#](https://github.com/nick-midmore/http-server)
-- 🕋 [Zakat Calculator]()
 
 <!-- ![Image](https://picsum.photos/600/300?random=1) -->
 
