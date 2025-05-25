@@ -1,6 +1,6 @@
 ## About Me
 
-Software Developer, 5+ years experience in technical roles, lover of type safety and compilers. Currently enrolled in an intensive Software Development bootcamp with a focus on the .NET ecosystem.
+Software Developer, 5+ years experience in technical roles, lover of type safety and compilers.
 
 Open to work!
 
